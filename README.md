@@ -1,16 +1,15 @@
-## Hi there 👋
+### 👨‍💻 About Me
+* 🎓 Studying **Computer Science & Mathematics** at The University of Texas at Austin.
+* ⚙️ Focused on **Computer Architecture, Operating Systems, and Cloud Infrastructure**.
+* 🔭 Experienced in building OS kernel subsystems, hardware element simulators, and cloud-native network tools.
 
-<!--
-**akoul-05/akoul-05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠️ Tech Stack
+* **Languages:** C, C++, Rust, Go, Python, AArch64 Assembly
+* **Systems & Architecture:** Linux/Unix, SONiC, PintOS, Pipeline Design, Cache Simulation
+* **Cloud & Infrastructure:** Docker, Oracle Cloud Infrastructure (OCI), AWS, GitLab CI/CD
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 High-Impact Work
+* **Network Operating Systems @ Oracle (OCI):** Engineered full-stack lab orchestration tools in Go and expanded automated CI/CD pipelines for SONiC.
+* **Kernel & Architecture Engineering:** Built core PintOS kernel subsystems in C/x86 (including demand-paged VM and multithreading) and designed the chArm-v3 System Emulator.
+* **Open-Source Systems:** Contributed to container lifecycle logic and Linux system interfaces for tools like Cloud Hypervisor, Podman, and nerdctl.
+* **Team Leadership:** Led a 10+ engineering team across full-stack and ML development to ship an AI color-palette generator.
